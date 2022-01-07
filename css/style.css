@@ -1,0 +1,38 @@
+* {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+.clearfix::after {
+    clear: both;
+    content: "";
+    display: table;
+
+}
+
+.header, .footer {
+    background: yellowgreen;
+    clear: both;
+}
+
+.menu {
+    background:violet;
+    float: left;
+    width: 30%;
+}
+
+.imgFloat {
+    float: left;
+    margin-top: 5px;
+    margin-right: 25px;
+    width: 150px;
+}
+
+.mainBlock {
+    background:lemonchiffon;
+    float: left;
+    width: 68%;
+    padding-left: 2%;
+}
+
+
