@@ -1,1 +1,1 @@
-# simpleFloatLayout
+# simple-layout-with-float
