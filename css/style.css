@@ -35,4 +35,22 @@
     padding-left: 2%;
 }
 
+.p-On-indexhtml {
+    
+}
+
+.menu-list li a:hover {
+    color:lightyellow;
+    transition-duration: 0.3s;
+}
+
+.menu-list li a {
+    text-decoration: none;
+}
+
+.title {
+    font-size: 18px;
+    font-weight: bold;
+}
+
 
