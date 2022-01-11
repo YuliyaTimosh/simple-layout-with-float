@@ -3,20 +3,13 @@
 }
 
 
-.clearfix::after {
-    clear: both;
-    content: "";
-    display: table;
-
-}
-
 .header, .footer {
-    background: yellowgreen;
+    background: #fcba03;
     clear: both;
 }
 
 .menu {
-    background:violet;
+    background:#cf03fc;
     float: left;
     width: 30%;
 }
@@ -29,7 +22,7 @@
 }
 
 .mainBlock {
-    background:lemonchiffon;
+    background:#e6f026;
     float: left;
     width: 68%;
     padding-left: 2%;
@@ -40,7 +33,7 @@
 }
 
 .menu-list li a:hover {
-    color:lightyellow;
+    color:#f2f5c4;
     transition-duration: 0.3s;
 }
 
